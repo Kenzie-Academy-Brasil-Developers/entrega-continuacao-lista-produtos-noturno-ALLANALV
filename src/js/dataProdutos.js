@@ -13,7 +13,7 @@ const produtos = [
             'Vitamina B6',
             'Vitamina C',
             'Folatos'
-        ] 
+        ]
     },
     {
         id: 2,
@@ -29,7 +29,7 @@ const produtos = [
             'Vitamina C',
             'Cálcio',
             'Ferro'
-        ] 
+        ]
     },
     {
         id: 3,
@@ -37,7 +37,7 @@ const produtos = [
         preco: '2.00',
         secao: 'Hortifruti',
         categoria: 'fruta',
-        img: './src/img/maça.png',
+        img: './src/img/maca.png',
         promocao: true,
         precoPromocao: '1.50',
         componentes: [
@@ -45,7 +45,7 @@ const produtos = [
             'Vitamina A',
             'Vitamina E',
             'Vitamina C'
-        ] 
+        ]
     },
     {
         id: 4,
@@ -61,7 +61,7 @@ const produtos = [
             'Sódio',
             'Fibra Alimentar',
             'Proteínas'
-        ] 
+        ]
     },
     {
         id: 5,
@@ -76,7 +76,7 @@ const produtos = [
             'Carboidratos',
             'Proteínas',
             'Gorduras totais'
-        ] 
+        ]
     },
-    
+
 ]
